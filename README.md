@@ -36,6 +36,7 @@
         <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Cloud">
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
         <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
+         <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
     </p>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
