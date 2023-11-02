@@ -12,25 +12,21 @@
          <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
          <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
     </p>
-    
-<h3 align='center'>Programming Languages and Frameworks</h3>
-    <p align='center'>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
+
+<h3 align='center'>C# and C#-Related Technologies</h3>
+   <p align='center'>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#">
         <img src="https://img.shields.io/badge/WPF-5D2B7D?style=flat-square&logo=Windows&logoColor=white" alt="WPF">
+        <img src="https://img.shields.io/badge/Prism%20Framework-06A2E0?style=flat-square&logo=dot-net&logoColor=white" alt="Prism Framework">
+    </p>
+    
+<h3 align='center'>ETC Languages and Frameworks</h3>
+<p align='center'>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
         <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
         <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux">
-        <img src="https://img.shields.io/badge/Prism%20Framework-06A2E0?style=flat-square&logo=dot-net&logoColor=white" alt="Prism Framework">
-</div>
-
-<div align="center">
-    <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-6.0">
-        <img src="https://img.shields.io/badge/WPF%20Framework-5D2B7D?style=for-the-badge&logo=Windows&logoColor=white" alt="WPF Framework">
-    </a>
-</div>
-
-    </p>
-
+</p>
+    
 <h3 align='center'>Database</h3>
     <p align='center'>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
