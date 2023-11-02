@@ -3,6 +3,25 @@
 
 <h2 align='center'>🌱 Beck-end Stack 🌱</h2>
 <br/>
+<h3 align='center'>Java and Java-Related Technologies</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Framework">
+        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Cloud">
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
+        <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
+         <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
+         <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
+    </p>
+
+<h3 align='center'>Programming Languages and Frameworks</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/WPF-5D2B7D?style=flat-square&logo=Windows&logoColor=white" alt="WPF">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux">
+    </p>
+
 <h3 align='center'>Database</h3>
     <p align='center'>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
@@ -22,24 +41,7 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
     </p>
 
-<h3 align='center'>Programming Languages and Frameworks</h3>
-    <p align='center'>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#">
-        <img src="https://img.shields.io/badge/WPF-5D2B7D?style=flat-square&logo=Windows&logoColor=white" alt="WPF">
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux">
-    </p>
 
-<h3 align='center'>Java and Java-Related Technologies</h3>
-    <p align='center'>
-        <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Framework">
-        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Cloud">
-        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
-        <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
-         <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
-         <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
-    </p>
     <br/>
     <br/>
 <h2 align='center'>🌱 Used Languages 🌱</h2>
