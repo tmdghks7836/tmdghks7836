@@ -1,29 +1,43 @@
 ### Hi there 👋
 
-<h3 align='center'>🌱 Beck-end Stack 🌱</h3>
+<h2 align='center'>🌱 Beck-end Stack 🌱</h2>
 <br/>
-<p align='center'>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS ECS">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/GraphQL-E434AA?style=flat-square&logo=GraphQL&logoColor=white" alt="GraphQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis">
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Cloud">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Framework">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux">
-  <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
-  <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/WPF-5D2B7D?style=flat-square&logo=Windows&logoColor=white" alt="WPF">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
-</p>
+<h3 align='center'>Database</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL">
+        <img src="https://img.shields.io/badge/MySQL%20Geometry-4479A1?style=flat-square&logo=MySQL&logoColor=white" alt="MySQL Geometry">
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" alt="Redis">
+    </p>
 
-<br/>
+<h3 align='center'>Cloud and Hosting</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS">
+        <img src="https://img.shields.io/badge/AWS%20ECS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" alt="AWS ECS">
+    </p>
+
+<h3 align='center'>CI/CD</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
+    </p>
+
+<h3 align='center'>Programming Languages and Frameworks</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" alt="JavaScript">
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C%20Sharp&logoColor=white" alt="C#">
+        <img src="https://img.shields.io/badge/WPF-5D2B7D?style=flat-square&logo=Windows&logoColor=white" alt="WPF">
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" alt="HTML">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white" alt="Linux">
+    </p>
+
+<h3 align='center'>Java and Java-Related Technologies</h3>
+    <p align='center'>
+        <img src="https://img.shields.io/badge/Spring%20Framework-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Framework">
+        <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="Spring Cloud">
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
+        <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
+    </p>
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
