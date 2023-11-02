@@ -44,6 +44,8 @@
     <p align='center'>
         <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white" alt="Jenkins">
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
+        <img src="https://img.shields.io/badge/Docker%20Hub-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker Hub">
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2496ED?style=flat-square&logo=GitHub%20Actions&logoColor=white" alt="GitHub Actions">
     </p>
 
 <br/>
