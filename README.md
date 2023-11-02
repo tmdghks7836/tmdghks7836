@@ -41,10 +41,8 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="Docker">
     </p>
 
-    <br/>
-
-    <br/>
-    
+<br/>
+<br/>
 <h2 align='center'>🌱 Used Languages 🌱</h2>
     <br/>
 <div align="center">
