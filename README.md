@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+
 <h2 align='center'>🌱 Beck-end Stack 🌱</h2>
 <br/>
 <h3 align='center'>Database</h3>
@@ -39,13 +40,13 @@
          <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
          <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
     </p>
-
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+    
+<h3 align='center'>Used Languages</h3>
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdghks7836&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/tmdghks7836/github-readme-stats)
+  <a href="https://github.com/tmdghks7836">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks7836&layout=compact&hide=C%2B%2B&langs_count=6" alt="Top Languages" />
+  </a>
 </div>
-
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftmdghks7836&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
