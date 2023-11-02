@@ -40,8 +40,10 @@
          <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
          <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
     </p>
-    
-<h3 align='center'>Used Languages</h3>
+    <br/>
+    <br/>
+<h2 align='center'>🌱 Used Languages 🌱</h2>
+    <br/>
 <div align="center">
   <a href="https://github.com/tmdghks7836">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmdghks7836&layout=compact&hide=C%2B%2B&langs_count=6" alt="Top Languages" />
