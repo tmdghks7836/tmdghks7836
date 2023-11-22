@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+안녕하세요, 저는 소프트웨어 엔지니어로서 프로젝트를 통해 얻은 경험과 지식을 바탕으로 더 나은 솔루션을
+찾고자 합니다.
+
+도메인 주도방식의 개발을 좋아하며, 현재는 Kafka나 Axon Framework를 사용하여 MSA를 공부하고 있습니다.  
+
 
 <h2 align='center'>🌱 Beck-end Stack 🌱</h2>
 <br/>
