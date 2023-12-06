@@ -16,7 +16,6 @@
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Java&logoColor=white" alt="JPA">
         <img src="https://img.shields.io/badge/MyBatis-59666C?style=flat-square&logo=Java&logoColor=white" alt="MyBatis">
          <img src="https://img.shields.io/badge/QueryDSL-135C33?style=flat-square&logo=Java&logoColor=white" alt="QueryDSL">
-         <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=Apache%20Kafka&logoColor=white" alt="Kafka">
     </p>
 <br/>
 <h3 align='center'>C# and C#-Related Technologies</h3>
