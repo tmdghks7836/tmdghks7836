@@ -59,5 +59,7 @@
 </p>
 <h2 align='center'>🌱 Algorithm 🌱</h2>
 <div align="center">
-<img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdghks7836">
+    <a href="https://solved.ac/profile/tmdghks7836">
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdghks7836" c>
+        </a>
 </div>
