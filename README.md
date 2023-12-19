@@ -70,5 +70,4 @@
 <br/>
 <br/>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=tmdghks7836)](https://solved.ac/tmdghks7836)
+<img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdghks7836">
