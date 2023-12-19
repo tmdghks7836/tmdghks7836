@@ -68,6 +68,6 @@
 </p>
 
 <br/>
-<br/>
-
+<div align="center">
 <img src="http://mazassumnida.wtf/api/generate_badge?boj=tmdghks7836">
+</div>
